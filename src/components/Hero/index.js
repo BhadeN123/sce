@@ -62,7 +62,7 @@ function sayHello() {
       <HeroContent>
         <HeroItems>
         <HeroBtn>Place Order</HeroBtn><br/>
-        <Button onClick={sayHello}>login</Button>
+       
         <Link to='loginform'>login</Link>
         </HeroItems>
       </HeroContent>
